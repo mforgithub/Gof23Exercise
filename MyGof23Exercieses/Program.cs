@@ -10,6 +10,7 @@ namespace MyGof23Exercieses
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("无差别伤害");
         }
     }
 }
